@@ -258,3 +258,10 @@ body{
 .dark-mode{
   background-color: black;
 }
+.dark-mode .c1{
+  background-color: #b6e9c7;
+}
+.dark-mode .c2{
+  background-color: #daf8e5;
+}
+
