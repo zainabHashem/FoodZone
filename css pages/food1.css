@@ -241,3 +241,15 @@ button
      cursor: pointer;
 
 }
+.dark-mode 
+{
+    background-color: black;
+}
+.dark-mode h2
+{
+    color: white;
+}
+.dark-mode pre
+{
+ color: white;
+}
