@@ -41,7 +41,7 @@ padding: 0 10px;
 margin-bottom: 50px;
 }
 
-a::before{
+nav a::before{
 content: '';
 position: absolute;
 left: 0;
